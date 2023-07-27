@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fahedbelhiba)](https://github.com/ryo-ma/github-profile-trophy)
+
 -->

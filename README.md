@@ -3,6 +3,11 @@
 ## About Me
 
 I'm Fahed Belhiba, a junior developer with a passion for embedded systems, robotics, Dart, and Flutter. 🚀 I'm constantly exploring the exciting intersection of software and hardware, working on projects that bring together the best of both worlds.
+🔭 Currently working on: Flutter & Ionic 📱<br>👯 Looking to collaborate on: Mobile Apps<br>🤝 Seeking help with: Learning new things<br>🌐 Currently learning: CyberOps<br>💬 Ask me about: Software Development<br>👁️‍🗨️ Passionate about: Cybersecurity<br>⚡ Interested in: Energy Efficiency and Smart Thinking 💡
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/V7zNGABx) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zarzis.fahed.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahed_belhiba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahedbelhiba) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@belhibaTuto) 
 
 ## What I Love
 
@@ -20,13 +25,6 @@ I'm Fahed Belhiba, a junior developer with a passion for embedded systems, robot
 
 - 🤖 [Project 2 : RC_CAR_APP](): Create RC Car App.
 
-
-## Get in Touch
-
-🌐 Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/fahed-belhiba-b6a669242/?originalSubdomain=tn)) to stay updated on my latest projects and experiences.
-
-
-📧 You can also reach me via email at belhibafahed@outlook.frI'm always open to collaborations and new ideas.
 
 ## Let's Code Together!
 

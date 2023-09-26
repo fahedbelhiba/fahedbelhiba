@@ -16,15 +16,14 @@ I'm Fahed Belhiba, a junior developer with a passion for embedded systems, robot
 
 ## My Projects
 
-- 🤖 [Project 1 Name](link-to-project-1): Brief description of the project and its significance.
+- 📱 [Project 1 : PFE-APP](https://github.com/fahedbelhiba/PFE-Project-App): The YouthScience Management App.
 
-- 📱 [Project 2 Name](link-to-project-2): Description of the Flutter app and its functionalities.
+- 🤖 [Project 2 : RC_CAR_APP](): Create RC Car App.
 
-- 🔌 [Project 3 Name](link-to-project-3): Explanation of the embedded system project and its impact.
 
 ## Get in Touch
 
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) to stay updated on my latest projects and experiences.
+🌐 Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/fahed-belhiba-b6a669242/?originalSubdomain=tn)) to stay updated on my latest projects and experiences.
 
 
 📧 You can also reach me via email at belhibafahed@outlook.frI'm always open to collaborations and new ideas.

@@ -46,4 +46,4 @@ I'm Fahed Belhiba, a junior developer with a passion for embedded systems, robot
 
 ## Let's Code Together!
 
-If you share my enthusiasm for embedded systems, robotics, Dart, Flutter, or any other exciting tech, don't hesitate to reach out! Let's collaborate and create something awesome together. Happy coding! 🎉
+If you share my enthusiasm for embedded systems, robotics, .NET, or any other exciting tech, don't hesitate to reach out! Let's collaborate and create something awesome together. Happy coding! 🎉

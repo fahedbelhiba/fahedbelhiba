@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Fahed Belhiba, a junior developer with a passion for embedded systems, robotics, Dart, and Flutter. 🚀 I'm constantly exploring the exciting intersection of software and hardware, working on projects that bring together the best of both worlds.<br>
+I'm Fahed Belhiba, a junior developer with a passion for embedded systems, robotics and .NET. 🚀 I'm constantly exploring the exciting intersection of software and hardware, working on projects that bring together the best of both worlds.<br>
 
 🔭 Currently working on: Flutter & Ionic 📱<br>👯 Looking to collaborate on: Mobile Apps<br>🤝 Seeking help with: Learning new things<br>🌐 Currently learning: CyberOps<br>💬 Ask me about: Software Development<br>👁️‍🗨️ Passionate about: Cybersecurity<br>⚡ Interested in: Energy Efficiency and Smart Thinking 💡
 
